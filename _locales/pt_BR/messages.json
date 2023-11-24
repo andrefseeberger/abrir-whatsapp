@@ -1,0 +1,42 @@
+{
+	"extensionName": {
+		"message": "Abrir telefone no WhatsApp",
+		"description": "Nome da extensão."
+	},
+	"extensionDescription": {
+		"message": "Selecione um texto com número no navegador, clique com o botão direito e selecione \"Abrir no WhatsApp\". O addon incluirá automaticamente o código do país e do estado, caso não existam. É possível configurar um texto padrão para o link aberto.",
+		"description": "Descrição da extensão."
+	},
+	"awppPrefixoPais": {
+		"message": "Prefixo de país",
+		"description": "Country prefix."
+	},
+	"awppPrefixoEstado": {
+		"message": "Prefixo do estado",
+		"description": "State prefix."
+	},
+	"awppTexto": {
+		"message": "Texto padrão",
+		"description": "Default text."
+	},
+	"awppTamanho": {
+		"message": "Tamanho do número de telefone sem prefixos",
+		"description": "Phone size."
+	},
+	"configSaveButton": {
+		"message": "Salvar",
+		"description": "Save button."
+	},
+	"awppTextarea": {
+		"message": "Insira o número do telefone",
+		"description": "Popup textearea placeholder."
+	},
+	"popupOpenButton": {
+		"message": "Abrir",
+		"description": "Open phone on the popup."
+	},
+	"contextMenuItemTitle": {
+		"message": "Abrir no WhatsApp",
+		"description": "Item do menu."
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"extensionName": {
+		"message": "Open phone number on WhatsApp",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Select the phone number on the browser, right click it and select \"Open with WhatsApp\". It includes the country code automatically if needed. You can configure a default text to submit.",
+		"description": "Description of the extension."
+	},
+	"awppPrefixoPais": {
+		"message": "Country prefix",
+		"description": "Country prefix."
+	},
+	"awppPrefixoEstado": {
+		"message": "State prefix",
+		"description": "State prefix."
+	},
+	"awppTexto": {
+		"message": "Default text",
+		"description": "Default text."
+	},
+	"awppTamanho": {
+		"message": "Phone size without any prefixes",
+		"description": "Phone size."
+	},
+	"configSaveButton": {
+		"message": "Save",
+		"description": "Save button."
+	},
+	"awppTextarea": {
+		"message": "Insert phone number",
+		"description": "Popup textearea placeholder."
+	},
+	"popupOpenButton": {
+		"message": "Open",
+		"description": "Open phone on the popup."
+	},
+	"contextMenuItemTitle": {
+		"message": "Open with WhatsApp",
+		"description": "Item name on the context menu."
+	}
+}
