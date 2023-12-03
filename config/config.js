@@ -21,7 +21,7 @@ function restoreOptions() {
 	}
 
 	let gettingItem = browser.storage.local.get({
-		awppPrefixoPais: "55",
+		awppPrefixoPais: "+55",
 		awppPrefixoEstado: "27",
 		awppTexto: "",
 		awppTamanho: 9,
